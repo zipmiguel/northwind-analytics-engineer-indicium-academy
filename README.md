@@ -1,1 +1,1 @@
-# northwind-analytics-engineer-indicium-academy
+# northwind-analytics-engineer-indicium-academy.
